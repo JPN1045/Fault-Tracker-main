@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "Visual Studio Dark - C++",
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "task.allowAutomaticTasks": "on",
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor"
+  },
+  "cmake.configureOnOpen": true
+}
